@@ -1,5 +1,5 @@
 # ML-Project-Loan-Status-Prediction
-Here's a well-structured description for your project:  
+Here's a well-structured description for the project:  
 
 ---
 
